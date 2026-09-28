@@ -1,0 +1,3 @@
+Python is a widely used programming language that helps programmers create applications and solve different computational problems. 
+Its simple syntax makes Python easy to understand and learn. It is commonly used in areas such as data analysis, artificial intelligence,
+automation, and software development. Python is useful for both beginners and experienced programmers.

@@ -1,0 +1,62 @@
+PLAGIARISM CHECKER REPORT
+=========================
+
+Comparing essay1.txt and essay2.txt
+Total words in essay1.txt: 52
+Total words in essay2.txt: 52
+Common words: ['python', 'is', 'a', 'programming', 'language', 'used', 'for', 'software', 'and', 'computational', 'problems', 'it', 'easy', 'to', 'learn', 'useful', 'programmers', 'development', 'data', 'analysis', 'automation', 'artificial', 'intelligence', 'its', 'simple', 'syntax', 'makes', 'beginners', 'as', 'experienced']
+Number of common words: 30
+Similarity: 57.69%
+Repeated phrases: ['python is', 'is a', 'programming language', 'computational problems', 'it is', 'easy to', 'data analysis', 'automation and', 'artificial intelligence', 'its simple', 'simple syntax', 'syntax makes', 'experienced programmers']
+Number of repeated phrases: 13
+Result: Moderate similarity
+
+WORD ANALYSIS
+-------------------------
+Comparing essay1.txt and essay2.txt
+Common words:
+['python', 'is', 'a', 'programming', 'language', 'used', 'for', 'software', 'and', 'computational', 'problems', 'it', 'easy', 'to', 'learn', 'useful', 'programmers', 'development', 'data', 'analysis', 'automation', 'artificial', 'intelligence', 'its', 'simple', 'syntax', 'makes', 'beginners', 'as', 'experienced']
+Words only in essay1.txt:
+['popular', 'developing', 'solving', 'provides', 'many', 'features', 'can', 'be', 'web', 'suitable', 'well']
+Words only in essay2.txt:
+['widely', 'that', 'helps', 'create', 'applications', 'solve', 'different', 'understand', 'commonly', 'in', 'areas', 'such', 'both']
+
+Comparing essay1.txt and essay3.txt
+Total words in essay1.txt: 52
+Total words in essay3.txt: 63
+Common words: ['python', 'is', 'programming', 'for', 'and', 'provides', 'useful', 'can', 'data', 'as']
+Number of common words: 10
+Similarity: 17.55%
+Repeated phrases: ['python can']
+Number of repeated phrases: 1
+Result: Low similarity
+
+WORD ANALYSIS
+-------------------------
+Comparing essay1.txt and essay3.txt
+Common words:
+['python', 'is', 'programming', 'for', 'and', 'provides', 'useful', 'can', 'data', 'as']
+Words only in essay1.txt:
+['a', 'popular', 'language', 'used', 'developing', 'software', 'solving', 'computational', 'problems', 'it', 'easy', 'to', 'learn', 'many', 'features', 'programmers', 'be', 'web', 'development', 'analysis', 'automation', 'artificial', 'intelligence', 'its', 'simple', 'syntax', 'makes', 'suitable', 'beginners', 'well', 'experienced']
+Words only in essay3.txt:
+['black', 'holes', 'are', 'regions', 'of', 'space-time', 'where', 'gravity', 'extremely', 'strong', 'even', 'light', 'cannot', 'escape', 'studying', 'involves', 'mathematics', 'physics', 'increasingly', 'the', 'use', 'computer', 'help', 'scientists', 'process', 'astronomical', 'perform', 'calculations', 'create', 'simulations', 'complex', 'physical', 'systems', 'in', 'this', 'way', 'tools', 'objects', 'such', 'understanding', 'universe']
+
+Comparing essay2.txt and essay3.txt
+Total words in essay2.txt: 52
+Total words in essay3.txt: 63
+Common words: ['python', 'is', 'programming', 'create', 'and', 'in', 'such', 'as', 'data', 'useful', 'for']
+Number of common words: 11
+Similarity: 19.31%
+Repeated phrases: ['such as']
+Number of repeated phrases: 1
+Result: Low similarity
+
+WORD ANALYSIS
+-------------------------
+Comparing essay2.txt and essay3.txt
+Common words:
+['python', 'is', 'programming', 'create', 'and', 'in', 'such', 'as', 'data', 'useful', 'for']
+Words only in essay2.txt:
+['a', 'widely', 'used', 'language', 'that', 'helps', 'programmers', 'applications', 'solve', 'different', 'computational', 'problems', 'its', 'simple', 'syntax', 'makes', 'easy', 'to', 'understand', 'learn', 'it', 'commonly', 'areas', 'analysis', 'artificial', 'intelligence', 'automation', 'software', 'development', 'both', 'beginners', 'experienced']
+Words only in essay3.txt:
+['black', 'holes', 'are', 'regions', 'of', 'space-time', 'where', 'gravity', 'extremely', 'strong', 'even', 'light', 'cannot', 'escape', 'studying', 'involves', 'mathematics', 'physics', 'increasingly', 'the', 'use', 'computer', 'can', 'help', 'scientists', 'process', 'astronomical', 'perform', 'calculations', 'simulations', 'complex', 'physical', 'systems', 'this', 'way', 'provides', 'tools', 'objects', 'understanding', 'universe']

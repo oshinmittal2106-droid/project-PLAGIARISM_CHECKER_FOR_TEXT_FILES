@@ -1,0 +1,4 @@
+Python is a popular programming language used for developing software and solving computational problems. 
+It is easy to learn and provides many useful features for programmers. 
+Python can be used for web development, data analysis, automation, and artificial intelligence.
+ Its simple syntax makes it suitable for beginners as well as experienced programmers.

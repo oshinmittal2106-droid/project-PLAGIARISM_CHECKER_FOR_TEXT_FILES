@@ -1,0 +1,4 @@
+Black holes are regions of space-time where gravity is extremely strong and even light cannot escape. 
+Studying black holes involves mathematics, physics, and increasingly the use of computer programming.
+Python can help scientists process astronomical data, perform calculations, and create simulations of complex physical systems. 
+In this way, programming provides useful tools for studying objects such as black holes and understanding the universe.
